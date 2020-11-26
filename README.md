@@ -1,2 +1,2 @@
-# product_color_classification
+# Product Color Classification
 A dashboard to classify product colors
